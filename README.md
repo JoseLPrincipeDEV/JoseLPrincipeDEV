@@ -12,10 +12,10 @@ Mi objetivo es continuar creciendo profesionalmente y aportar mis habilidades en
 
 #### Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Static Badge](https://img.shields.io/badge/PHP-blue)
-
+![JAVA](https://img.shields.io/badge/JAVA-orange?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-blue?style=flat-square)
+![PYTHON](https://img.shields.io/badge/PYTHON-skyblue?style=flat-square)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square)
 
 #### Database
 
@@ -34,4 +34,5 @@ Mi objetivo es continuar creciendo profesionalmente y aportar mis habilidades en
 
 
 ## Connect with me:
+
 

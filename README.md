@@ -17,6 +17,10 @@ Mi objetivo es continuar creciendo profesionalmente y aportar mis habilidades en
 ![PYTHON](https://img.shields.io/badge/PYTHON-skyblue?style=flat-square)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square)
 
+#### Tecnología Front:
+![hmtl](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;

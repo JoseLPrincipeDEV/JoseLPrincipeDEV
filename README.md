@@ -46,8 +46,6 @@ Mi objetivo es continuar creciendo profesionalmente y aportar mis habilidades en
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/jose_principe.l/)
 </p>
 
-### My stats ⭐
-
 <div align="center">
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLPrincipeDEV&layout=compact&&langs_count=8"/>
 </div>

@@ -8,9 +8,9 @@ Estudiante apasionado de Ingeniería de Software con especialización en Intelig
 En este perfil, podrás explorar mi portafolio de proyectos académicos y personales, que muestran mi evolución como desarrollador web y mi interés en la inteligencia artificial.
 Mi objetivo es continuar creciendo profesionalmente y aportar mis habilidades en equipos que valoren la creatividad, el trabajo en equipo y el impacto tecnológico. Estoy abierto a nuevas oportunidades laborales para aplicar mis conocimientos y seguir aprendiendo en un entorno dinámico.
 
-## Skills:
+## Habilidades:
 
-#### Languages:
+#### Lenguajes:
 
 ![JAVA](https://img.shields.io/badge/JAVA-orange?style=flat-square)
 ![PHP](https://img.shields.io/badge/PHP-blue?style=flat-square)
@@ -21,7 +21,7 @@ Mi objetivo es continuar creciendo profesionalmente y aportar mis habilidades en
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-#### Tools and Technologies
+#### Herramientas y tecnologías
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
@@ -33,6 +33,6 @@ Mi objetivo es continuar creciendo profesionalmente y aportar mis habilidades en
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-## Connect with me:
+## Contactame:
 
 
